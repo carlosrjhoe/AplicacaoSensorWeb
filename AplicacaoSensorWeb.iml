@@ -7,5 +7,18 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/OneDrive/Desktop/Selenium - Java" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/OneDrive/Desktop/Selenium - Java" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/OneDrive/Desktop/Selenium - Java" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/OneDrive/Desktop/Selenium - Java" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
   </component>
 </module>
