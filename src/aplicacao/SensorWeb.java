@@ -27,9 +27,7 @@ public class SensorWeb {
     }
 
     public void abrirSensorWeb() {
-        /*
-        Metodo para abrir página na web
-        */
+        // Metodo para abrir página na web
         driver.get(URL);
     }
 
